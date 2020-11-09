@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactSPA/static/css/main.fc67a3ce.chunk.css",
+    "main.js": "/ReactSPA/static/js/main.7df38eb6.chunk.js",
+    "main.js.map": "/ReactSPA/static/js/main.7df38eb6.chunk.js.map",
+    "runtime-main.js": "/ReactSPA/static/js/runtime-main.b7438632.js",
+    "runtime-main.js.map": "/ReactSPA/static/js/runtime-main.b7438632.js.map",
+    "static/js/2.beb18d46.chunk.js": "/ReactSPA/static/js/2.beb18d46.chunk.js",
+    "static/js/2.beb18d46.chunk.js.map": "/ReactSPA/static/js/2.beb18d46.chunk.js.map",
+    "index.html": "/ReactSPA/index.html",
+    "precache-manifest.42264712c530f717ac3bd0d9939f21c4.js": "/ReactSPA/precache-manifest.42264712c530f717ac3bd0d9939f21c4.js",
+    "service-worker.js": "/ReactSPA/service-worker.js",
+    "static/css/main.fc67a3ce.chunk.css.map": "/ReactSPA/static/css/main.fc67a3ce.chunk.css.map",
+    "static/js/2.beb18d46.chunk.js.LICENSE.txt": "/ReactSPA/static/js/2.beb18d46.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/ReactSPA/static/media/logo.e576cda6.svg",
+    "static/media/todoInput.module.css": "/ReactSPA/static/media/button_add.9a9b3965.svg",
+    "static/media/todoItem.css": "/ReactSPA/static/media/checkbox_done.b6da1acd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7438632.js",
+    "static/js/2.beb18d46.chunk.js",
+    "static/css/main.fc67a3ce.chunk.css",
+    "static/js/main.7df38eb6.chunk.js"
+  ]
+}
